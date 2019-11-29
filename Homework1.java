@@ -16,7 +16,6 @@ public class Homework1 {
         System.out.println(g);
         System.out.println(h);
     }
-
 }
 
 
